@@ -3,7 +3,7 @@ Applied Deep Learning on MNIST dataset.
 
 <h3>Multilayer Perceptron</h3>
 
-->Dense layer     [512, activation='sigmoid']<br>
+->Dense layer emsp     [512, activation='sigmoid']<br>
 ->BatchNormalisation<br>
 ->Dropout         [dropout_rate=0.5]<br>
 ->Dense layer     [128, activation='sigmoid']<br>
